@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c6ca3gxt3rsvp"
+path="res://.godot/imported/30 - Ruins.ogg-19cad7e27f4bb67542ab9e40ae19237c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/Musics/30 - Ruins.ogg"
+dest_files=["res://.godot/imported/30 - Ruins.ogg-19cad7e27f4bb67542ab9e40ae19237c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
